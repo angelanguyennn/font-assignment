@@ -1,0 +1,48 @@
+/* 
+font-family: 'Nanum Myeongjo', serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Questrial', sans-serif;
+*/
+
+body {
+    background-color: rgb(83, 110, 110);
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 15px;
+    color: rgb(63, 35, 13);
+    display: inline;
+    
+}
+
+h1{
+    color: rgb(148, 148, 148);
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 90px;
+
+}
+
+h2{
+    color: rgb(92, 13, 24);
+    font-family: 'Questrial', sans-serif;
+}
+
+h3{
+    display: inline;
+    
+}
+
+h4{
+    color: rgb(18, 18, 126);
+    font-style: oblique;
+    font-size: 60px;
+    writing-mode: vertical-rl
+}
+
+p{
+    color: rgb(77, 22, 77);
+}
+
+.wrapper{
+    width: 70%;
+    margin: 80px auto 0 auto;
+    
+}
